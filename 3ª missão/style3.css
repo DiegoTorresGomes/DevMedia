@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    display: flex;
+}
+
+span {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    justify-content: center;
+    padding: 10px 15px 10px 20px;
+    margin: 100px auto;
+    border: 5px inset darkviolet;
+    border-radius: 5px 40px 0px 60px;
+}
